@@ -5,7 +5,7 @@ This app allows users to manipulate and reset background color, text color, and 
 It also allows users to move to a second screen where they can click to learn more about me, the creator.
 
 ### App Walk-though
-<img src="http://g.recordit.co/VJ246IGJGx.gif" width=200><br>
+<img src="http://g.recordit.co/NA4VFNuOjC.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
